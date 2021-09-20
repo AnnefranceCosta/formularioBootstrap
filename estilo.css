@@ -1,0 +1,16 @@
+.marcador{
+	background: red;
+	border: 1px solid yellow;
+}
+
+.linha{
+	border-bottom-color: red;
+}
+
+.boot-hover:hover{
+background: gray;
+width: 30%;
+border-radius: 5px;
+}
+
+
